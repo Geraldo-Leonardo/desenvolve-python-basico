@@ -1,0 +1,11 @@
+veiculo
+encaracolado
+estomago
+modificado
+gabarito
+imagem
+musica
+computador
+comando
+trabalho
+python
